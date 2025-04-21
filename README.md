@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GhareVedantSandesh
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning cpp
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
